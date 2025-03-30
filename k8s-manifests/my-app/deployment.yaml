@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: my-app
-        image: theabdullahchaudhary/my-apache-server-with-love-message:latest
+        image: techblogger/abdullahchaudhary-top-devops-voice-image:v1
         ports:
         - containerPort: 80
