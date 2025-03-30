@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: my-app
-        image: theabdullahchaudhary/flaskapp
+        image: theabdullahchaudhary/newflaskapp
         ports:
         - containerPort: 80
