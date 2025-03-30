@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: my-app
-        image: linkedinprojects/demo-flask-app:latest
+        image: amonkincloud/starbucks:latest
         ports:
         - containerPort: 80
