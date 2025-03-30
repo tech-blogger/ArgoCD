@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: my-app
-        image: theabdullahchaudhary/newflaskapp
+        image: golang:latest
         ports:
         - containerPort: 80
